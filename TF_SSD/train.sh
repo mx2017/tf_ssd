@@ -1,0 +1,2 @@
+./scripts/train.sh \
+squeezeDet 
